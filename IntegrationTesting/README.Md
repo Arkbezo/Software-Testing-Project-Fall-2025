@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-This repository contains **integration tests** developed for a Point of Sale (POS) system.  
+This repository contains **integration tests** developed for the Point of Sale (POS) system.  
 The goal of the project is to validate the **interaction between multiple system components**, including the Data Access Layer (DAL), Data Transfer Objects (DTOs), and the MySQL database.
 
 All tests are executed using **real implementations and real database operations**, without the use of mocks or stubs.
